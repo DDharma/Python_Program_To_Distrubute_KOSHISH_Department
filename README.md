@@ -1,4 +1,4 @@
-What is Koshish ?
+**What is Koshish ?**
 
 Koshish is an organisation cum family comprising of volunteers who work 
 together selflessly for the upliftment of underprivileged children. By 
@@ -11,5 +11,12 @@ lead a life of dignity because they deserve better.
 “You bring 1 smile on someone’s face and HE will bring 1 smile on your 
 face.”
 
+**Function**
+In this orgenisation we have **seven** Department so that we have the distrubute the department ammong all the member.
+I write the code **department_distrubute.py** which read the excel sheet **depart_pref.xlsx** which have member mane and preference
+and make a another excel sheet on the basis of their 1st and 2nd preferences.
+The distrubeted department are stored in **koshish_department.xlsx** excel sheet.
 
+
+ 
 
